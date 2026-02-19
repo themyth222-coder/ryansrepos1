@@ -2,10 +2,13 @@
 
 <h2>👨‍💻 computer information system projects :</h2>
 
-- <b>labs in packet tracer </b>
-this project documents the prossess of troubleshooting 
-<img width="1622" height="287" alt="Screenshot 2026-02-19 113912" src="https://github.com/user-attachments/assets/9ffd070b-4473-4bdd-91a1-9d5f7c5ac7c2" />
-<img width="1713" height="723" alt="Screenshot 2026-02-14 172428" src="https://github.com/user-attachments/assets/ba174b58-4762-4ca1-9efc-8bf744360dba" />
+- <b>LABS IN PRCKET TRACER </b>
+
+This project documents the prossess of troubleshooting 
+
+https://github.com/user-attachments/assets/9ffd070b-4473-4bdd-91a1-9d5f7c5ac7c2
+
+https://github.com/user-attachments/assets/ba174b58-4762-4ca1-9efc-8bf744360dba
 
 
 
