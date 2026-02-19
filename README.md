@@ -1,4 +1,6 @@
-# ryansrepos1<h1>Hi, I'm ryan! this is a rep of some projects of done in my computer information systems journey
+# ryanscurrentprojects
+
+<h1>Hi, I'm ryan! this is a rep of some projects of done in my computer information systems journey its been a great time learning and starting my carrer please enjoy looking around.
 
 <h2>👨‍💻 computer information system projects :</h2>
 
