@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 computer information system projects :</h2>
 
-- <b>LABS IN PRCKET TRACER </b>
+- <b>LABS IN PARCKET TRACER </b>
 
 This project documents the prossess of troubleshooting 
 
@@ -17,7 +17,12 @@ https://github.com/user-attachments/assets/ba174b58-4762-4ca1-9efc-8bf744360dba
 
 
 - <b> labs in python</b>
-<img width="1234" height="766" alt="Screenshot 2026-02-18 215116" src="https://github.com/user-attachments/assets/052e3190-3be1-4ab7-b46e-499fbaf4e9e3" />
+
+https://github.com/user-attachments/assets/052e3190-3be1-4ab7-b46e-499fbaf4e9e3
+
+https://github.com/user-attachments/assets/39d1419d-5822-49d6-9c53-e4ad0aa8c8c1
+
+https://github.com/user-attachments/assets/06212525-ade8-4b78-8105-6e83e6282676
 
 
 
@@ -27,7 +32,7 @@ https://github.com/user-attachments/assets/ba174b58-4762-4ca1-9efc-8bf744360dba
 
 - <b> labs in networking / data </b>
 
-<img width="780" height="574" alt="Screenshot 2026-02-16 203221" src="https://github.com/user-attachments/assets/4c463561-ffd0-4a87-bba9-3c295cfa9ca9" />
+https://github.com/user-attachments/assets/4c463561-ffd0-4a87-bba9-3c295cfa9ca9
 
 
 
