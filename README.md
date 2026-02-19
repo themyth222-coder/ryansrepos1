@@ -20,9 +20,7 @@ https://github.com/user-attachments/assets/ba174b58-4762-4ca1-9efc-8bf744360dba
 
 https://github.com/user-attachments/assets/052e3190-3be1-4ab7-b46e-499fbaf4e9e3
 
-https://github.com/user-attachments/assets/39d1419d-5822-49d6-9c53-e4ad0aa8c8c1
 
-https://github.com/user-attachments/assets/06212525-ade8-4b78-8105-6e83e6282676
 
 
 
@@ -41,7 +39,10 @@ https://github.com/user-attachments/assets/4c463561-ffd0-4a87-bba9-3c295cfa9ca9
 
 
 - <b> this is a little project for the classifications on ai <b/>
+
 [ai classification presentation  (1).pptx](https://github.com/user-attachments/files/25422508/ai.classification.presentation.1.pptx)
+
+[ai histoy project.pdf](https://github.com/user-attachments/files/25422715/ai.histoy.project.pdf)
 
 
 
