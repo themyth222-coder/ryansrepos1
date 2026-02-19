@@ -20,6 +20,7 @@ https://github.com/user-attachments/assets/ba174b58-4762-4ca1-9efc-8bf744360dba
 
 https://github.com/user-attachments/assets/052e3190-3be1-4ab7-b46e-499fbaf4e9e3
 
+[python miles project.pdf](https://github.com/user-attachments/files/25422813/python.miles.project.pdf)
 
 
 
